@@ -1,0 +1,17 @@
+<server>
+      <properties>
+        <displayName>**displayName**</displayName>
+        <name>**IP**</name>
+      </properties>
+      <logonCredentials inherit="None">
+        <profileName scope="Local">Custom</profileName>
+        <userName>**USERNAME**</userName>
+        <password storeAsClearText="True">**PASSWORD**</password>
+        <domain>**DOMAIN**</domain>
+      </logonCredentials>
+      <remoteDesktop inherit="None">
+        <sameSizeAsClientArea>True</sameSizeAsClientArea>
+        <fullScreen>False</fullScreen>
+        <colorDepth>24</colorDepth>
+      </remoteDesktop>
+</server>

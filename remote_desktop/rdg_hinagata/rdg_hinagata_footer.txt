@@ -1,0 +1,5 @@
+</file>
+  <connected />
+  <favorites />
+  <recentlyUsed />
+</RDCMan>
